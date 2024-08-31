@@ -1,1 +1,2 @@
-# weather_mobile_app_using_java
+# Weather-app
+This is a weather app designed using kotlin.
